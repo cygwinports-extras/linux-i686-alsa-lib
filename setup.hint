@@ -1,0 +1,4 @@
+category: Devel
+requires: linux-i686-glibc
+sdesc: "ALSA library for Linux i686 toolchain"
+ldesc: "ALSA library for Linux i686 toolchain"
